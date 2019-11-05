@@ -6,8 +6,8 @@
     "tagline": "Cloudflare Api Management",
     "docs": {
       "doc1": {
-        "title": "Latin-ish",
-        "sidebar_label": "Example Page"
+        "title": "Cloudproxy overview",
+        "sidebar_label": "Overwiew"
       },
       "doc2": {
         "title": "document number 2"
